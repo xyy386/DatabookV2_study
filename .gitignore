@@ -1,0 +1,5 @@
+.DS_Store
+.ipynb_checkpoints/
+.git-sync/logs/
+.git-sync/*.log
+
